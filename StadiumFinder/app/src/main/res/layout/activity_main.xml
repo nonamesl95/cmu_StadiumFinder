@@ -27,4 +27,9 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="59dp"
         tools:layout_editor_absoluteY="272dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/registarBtn"/>
 </LinearLayout>
