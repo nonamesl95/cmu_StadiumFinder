@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.ruibabo.stadiumfinder.MainActivity">
+    >
 
     <Button
         android:id="@+id/login"
@@ -28,8 +28,6 @@
         tools:layout_editor_absoluteX="59dp"
         tools:layout_editor_absoluteY="272dp" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/registarBtn"/>
+
+
 </LinearLayout>
